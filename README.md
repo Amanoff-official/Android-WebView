@@ -4,7 +4,7 @@
 
 1. Üýtgetmek
 
-   **Aşakda 15-nji setirdäki kod şondaky example.com saýty aýyrda öz saýtyňy goý**
+   **Aşakda 15-nji setirdäki kod şondaky example.com saýty aýyryp öz saýtyňy goýmaly**
    
 
 `
